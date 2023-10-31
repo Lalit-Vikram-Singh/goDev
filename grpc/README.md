@@ -59,7 +59,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"grpc-golang/pb"
+	pb "grpc/pb"
 	"log"
 	"net"
 
@@ -110,7 +110,7 @@ package main
 import (
 	"context"
 	"fmt"
-	"grpc-golang/pb"
+	pb "grpc/pb"
 	"log"
 
 	"google.golang.org/grpc"
